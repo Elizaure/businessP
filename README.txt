@@ -1,0 +1,3 @@
+A Pen created at CodePen.io. You can find this one at https://codepen.io/dudleystorey/pen/AgtbD.
+
+ Significantly improves on the code of my last auto-generated responsive image slider, and adds many options, including captions and image flow direction. Creates the required styles with progressive JavaScript, based on the number of images. [Github repo](https://github.com/dudleystorey/CSSslidy); explanatory [blog article](http://thenewcode.com/871/CSS-Slidy-20-Captions--more).

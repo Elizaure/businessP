@@ -1,0 +1,4 @@
+body { background: #200; }
+#slidy-container { 
+  width: 70%; margin: 0 auto; overflow: hidden;
+}
