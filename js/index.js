@@ -2,7 +2,7 @@ var cssSlidy = function(newOptions) {
   var options = (function() {
     var mergedOptions = {},
       defaultOptions = {
-        timeOnSlide: 4,
+        timeOnSlide: 3,
         timeBetweenSlides: 1,
         slidyContainerSelector: '#slidy-container', // name of slider container
         slidySelector: '#slidy', // name of slider
